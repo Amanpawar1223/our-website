@@ -1,0 +1,12 @@
+#home{
+    flex-direction: column;
+}
+
+#footer{
+    flex-direction: column;
+}
+
+#socialmenu{
+    flex-direction: column;
+    justify-content: end;
+}
